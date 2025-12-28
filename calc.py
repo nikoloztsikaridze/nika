@@ -3,3 +3,5 @@ y = int(input("y= "))
 
 print(x + y)
 print(x * y)
+print(x - y)
+print(math.sqrtx(x))
